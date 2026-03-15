@@ -1,3 +1,18 @@
+Recommended setup:
+Python: 3.9
+PyTorch: PyTorch 1.13
+GPU: optional, but recommended for faster optimization
+
+Main Python packages
+torch
+laspy[lazrs]
+numpy
+pandas
+geopandas
+shapely
+tqdm
+matplotlib
+
 Step 1 – Single Tree Parameter Estimation (Segmented Crowns)
 
 In the first step, tree parameters are estimated using segmented LiDAR crowns. Each crown is processed independently. The model represents the tree crown as a 3D spheroid defined by its center, horizontal radius, vertical radius, and foliage density.
