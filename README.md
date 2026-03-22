@@ -1,4 +1,5 @@
 How to Run
+
 Set the input LiDAR file:
 INPUT_LAZ = "path/to/your/file.laz"
 Run the script:
