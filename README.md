@@ -2,6 +2,7 @@ How to Run
 
 Set the input LiDAR file:
 INPUT_LAZ = "path/to/your/file.laz"
+the inputs file can be found here: https://drive.google.com/drive/folders/1KFpLJTXPJXMHihQ_8EOgFolitYwHH-kh?usp=sharing
 
 Run the script:
 python script_name.py
