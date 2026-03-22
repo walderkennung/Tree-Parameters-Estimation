@@ -1,3 +1,8 @@
+How to Run
+Set the input LiDAR file:
+INPUT_LAZ = "path/to/your/file.laz"
+Run the script:
+python script_name.py
 Recommended setup:
 Python: 3.9
 PyTorch: PyTorch 1.13
